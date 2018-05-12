@@ -1,6 +1,9 @@
 _repo: 20.000-Mijlen-onder-Zee--Oostelijk-Halfrond_11205
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Vingt mille lieues sous les mers. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: Volume 1 (of 2)
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11205#20.000-Mijlen-onder-Zee--Oostelijk-Halfrond
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
